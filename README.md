@@ -35,7 +35,7 @@ or
 
 ```
 cd /etc/ansible/roles
-ansible-galaxy install varnav.zabbix-3.4-agent
+ansible-galaxy install varnav.ansible_zabbix_3_4_agent
 ```
 
 
